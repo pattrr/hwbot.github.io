@@ -53,4 +53,4 @@ async def hw(ctx, arg1, arg2):
                                             color=discord.Color.red()))
 
 
-bot.run('ODUwMTg0MTI4Mzg4NTMwMTk2.GlG2aM.vwGarYJw1M1jgVs09ArSo1HIoFS8TyC3bZpVAY')
+bot.run('ODUwMTg0MTI4Mzg4NTMwMTk2.GXxkQ9.OMzCLH-vIJeKQHfDp9N3MWLhqnWo8URIMfmBCo')
